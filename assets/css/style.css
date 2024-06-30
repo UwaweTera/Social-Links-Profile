@@ -1,0 +1,23 @@
+body{
+    color: hsl(0, 0%, 80%);
+    background: hsl(0, 0%, 8%);
+    font-family: 'Inter';
+    font-style: normal;
+}
+.main-color{
+    color:  hsl(75, 94%, 50%);;
+}
+.main{
+    background-color: hsl(0, 0%, 12%);
+}
+.london{
+    color: hsl(75, 94%, 50%);
+}
+.links{
+    background-color: rgb(51, 51, 51) ;
+    transition: all 0.5s;
+}
+.links:hover{
+    background: hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 8%);
+}
